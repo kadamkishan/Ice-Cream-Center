@@ -1,0 +1,1 @@
+this is test file for checking static file in backend development
